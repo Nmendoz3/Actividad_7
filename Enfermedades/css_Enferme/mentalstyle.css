@@ -1,0 +1,47 @@
+
+
+  .teal ul{
+    padding: -80px;
+    margin: 0;
+    list-style: none;
+    display: inline-flex;
+    }
+
+    
+.teal li{
+  padding-top: 15px;
+  padding-left: 30px;
+  
+  }
+
+  .menu li a:hover{
+    color: darkorange;
+    text-decoration: overline;
+  }
+
+  .teal li a{
+    display: block;
+    text-decoration: goldenrod ;
+    color: black;
+
+}
+
+.contenido {
+
+
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  padding: 1px;
+}
+
+.IconoNeurol {
+  
+  background-image: url(../Imagenes/medicinafondo.jpg);
+  background-attachment: fixed;
+  background-size: 100% 100%; 
+
+}
+
+.derechos {
+  color: white;
+}
